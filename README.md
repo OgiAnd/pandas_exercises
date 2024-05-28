@@ -1,14 +1,3 @@
 # Pandas Exercises
-
-Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
-Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
-
-There will be three different types of files:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Exercise instructions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solutions without code  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments
-
-My suggestion is that you learn a topic in a tutorial, video or documentation and then do the first exercises.
-Learn one more topic and do more exercises. If you are stuck, don't go directly to the solution with code files. Check the solutions only and try to get the correct answer.
-
-Suggestions and collaborations are more than welcome.🙂 Please open an issue or make a PR indicating the exercise and your problem/solution.
+### Welcome to Pandas Exploration! In this project, I explore the core functionalities of the Pandas library, focusing on fundamental data manipulation techniques and visualization methods. Through hands-on exercises, I delve into the basics of Pandas, covering essential functions for data ingestion, manipulation, and visualization. From data cleaning and transformation to creating insightful visualizations, this project serves as a comprehensive primer for leveraging Pandas to handle and analyze datasets effectively.
+#### Acknowledgement: These exercises were forked from another user, and I adapted them to create my own version for this project. 
